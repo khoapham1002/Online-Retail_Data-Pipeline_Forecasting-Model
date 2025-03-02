@@ -87,9 +87,6 @@ Developed a data pipeline to process Walmart sales and external factors (holiday
 * Enabled insightful sales trend analysis for supply chain planning.
 * Created a structured dataset for further analytics and forecasting.
 
-
-
-
 ## Online Retail Forecasting Model
 ### Tools & Technologies:
 PySpark, Machine Learning, Time Series Forecasting
