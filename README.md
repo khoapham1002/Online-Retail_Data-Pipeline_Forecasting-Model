@@ -1,4 +1,4 @@
-# Ecommerce & Retail Data Pipeline and Forecasting Model
+# Ecommerce - Retail Data Pipeline and Forecasting Model
 
 YOU CAN CHECK OUT MY [PROJECT NOTEBOOKS](https://github.com/khoapham1002/Online-Retail_Data-Pipeline_Forecasting-Model/blob/main/notebooks/framework.ipynb) FIRST!
 
