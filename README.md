@@ -9,16 +9,12 @@ YOU CAN CHECK OUT MY [PROJECT NOTEBOOKS](https://github.com/khoapham1002/Online-
 - [Orders Dataset Cleaning](#orders-dataset-cleaning)
 - [Retail Data Pipeline](#retail-data-pipeline)
 - [Online Retail Forecasting Model](#online-retail-forecasting-model)
-- [Key Achievements](#key-achievements)
 
 ## Overview   
-Applied data science and engineering expertise to develop scalable, industry-grade solutions, enhancing business operations and decision-making with measurable impacts on efficiency and accuracy.
-
-1. **Retail Inventory Management System:** Built an OOP-based system managing 1,000+ products, improving inventory accuracy and operational efficiency.
-2. **Orders Dataset Cleaning:** Processed retail orders data for demand forecasting, reducing data errors by 15% and enabling robust insights.
-3. **Retail Data Pipeline:** Designed scalable ETL workflows for holiday sales analysis, achieving 98% data consistency.
-4. **Online Retail Forecasting Model:** Developed a Random Forest Regressor model to forecast product demand with 9.41 MAE, predicting 88,665 units sold in a promotional week, enabling precise inventory management and planning.
-
+- Built an OOP-based inventory tracking system for 1,000+ products, ensuring efficient inventory control.
+- Implemented a PySpark retail data pipeline to clean and transform large-scale order records for analysis.
+- Applied Random Forest and Regression models to predict future product demand and sales trends.
+- Engineered features from time-series data, leveraging weekly sales trends for improved forecasting accuracy.
 
 
 ## Setup
