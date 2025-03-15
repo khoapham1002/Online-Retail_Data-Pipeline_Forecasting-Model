@@ -11,6 +11,9 @@ YOU CAN CHECK OUT MY [PROJECT NOTEBOOKS](https://github.com/khoapham1002/Online-
 - [Online Retail Forecasting Model](#online-retail-forecasting-model)
 
 ## Overview   
+
+Applied data science and engineering expertise to develop scalable, industry-grade solutions, enhancing business operations and decision-making with measurable impacts on efficiency and accuracy.
+
 - Built an OOP-based inventory tracking system for 1,000+ products, ensuring efficient inventory control.
 - Implemented a PySpark retail data pipeline to clean and transform large-scale order records for analysis.
 - Applied Random Forest and Regression models to predict future product demand and sales trends.
